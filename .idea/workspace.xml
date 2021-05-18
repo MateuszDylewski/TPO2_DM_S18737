@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="994d84b9-9527-4701-94af-cc84ed0d3c75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rJRSbWRA3KdQ6bSINVptoVjxNq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Szkola\rok3\TPO\DIR2M\TPO2_DM_S18737\src\zad1\dictionaries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Client" />
+      <module name="TPO2_DM_S18737" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zad1.languagesServers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="zad1.Main" />
+      <module name="TPO2_DM_S18737" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="994d84b9-9527-4701-94af-cc84ed0d3c75" name="Default Changelist" comment="" />
+      <created>1618692206558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618692206558</updated>
+      <workItem from="1618692210885" duration="5750000" />
+      <workItem from="1618742383011" duration="14174000" />
+      <workItem from="1619280992665" duration="2425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1618748696250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1618748696250" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/1920.62.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618692230818" />
+    <state x="540" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618749981802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1618749981802" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1619350292858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1619350292858" />
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom/1920.62.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618698397850" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1619350292858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1619350292858" />
+    <state width="1877" height="184" key="GridCell.Tab.0.center/1920.62.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618698397850" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1619350292858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1619350292858" />
+    <state width="1877" height="184" key="GridCell.Tab.0.left/1920.62.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618698397850" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1619350292858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1619350292858" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right/1920.62.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618698397850" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1618779670078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.62.1920.1040@0.0.1920.1040" timestamp="1618779670078" />
+  </component>
+</project>
